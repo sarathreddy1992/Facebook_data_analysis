@@ -9,4 +9,5 @@ change the path accordingly in the various functions
 
 1)friends_added.py
 In this file number of friends added each day and each month from the creation of the facebook account has been shown
-
+![](./Facebook_analysis/friends_added_each_day.JPG)
+![](./Facebook_analysis/friends_added_each_month.JPG)
